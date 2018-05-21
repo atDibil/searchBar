@@ -1,0 +1,29 @@
+body{
+    background-color: whitesmoke;
+}
+
+#main_container{
+    background-color: yellow;
+    height: 60px;
+    width: 60%;
+    margin: auto;
+}
+
+.box{
+    display: grid;
+    grid-template-columns: 15% auto; 
+    height: 70%;
+    width: 98%;
+    margin: 5% auto;
+
+}
+#d1{
+    background-color: orangered;
+    border-radius: 7% 0 0 7%;
+}
+#d2{
+    background-color: black;
+}
+#btn{
+    margin: 2.5% auto auto 20%;
+}
